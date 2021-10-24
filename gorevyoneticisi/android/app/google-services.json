@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777022616474",
+    "project_id": "gorevyoneticisi-fcde6",
+    "storage_bucket": "gorevyoneticisi-fcde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777022616474:android:c7a5ad68c9f47b71e24023",
+        "android_client_info": {
+          "package_name": "com.example.gorevyoneticisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777022616474-up6e67a2s6vr7h6k04ilstql8bus7bh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMICiRKzWvqTxCUpZFpk_hN-0W2NtLCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777022616474-up6e67a2s6vr7h6k04ilstql8bus7bh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
