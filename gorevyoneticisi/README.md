@@ -20,12 +20,12 @@ Packages:
 
  - Highly customizable, feature-packed calendar widget for Flutter.
    
-   table_calendar: ^3.0.3
+   table_calendar: ^3.0.3  - https://pub.dev/packages/table_calendar/install
 
  - Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 
-    intl: ^0.17.0
+    intl: ^0.17.0  - https://pub.dev/packages/intl/install
 
  - A Flutter plugin to use the Cloud Firestore API.
 
-    cloud_firestore: ^2.5.4
+    cloud_firestore: ^2.5.4  - https://pub.dev/packages/cloud_firestore/install
